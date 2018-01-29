@@ -10,6 +10,7 @@ Incluye opcion para mostrar números en los ejes.
 
 # bomba.js
 Adivina el código que desasctiva la bomba con las pistas que muestra en pantalla.
+![alt text](https://raw.githubusercontent.com/MarcosPer/entrevistaironhack/master/bomba.png)
 
 # t201X-Y
 Problemas de "Tuenti Programming Contest"
