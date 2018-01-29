@@ -1,5 +1,5 @@
 # entrevistaironhack
-Ejercicios realizados para la preparación de la entrevista técnica
+Ejercicios realizados para la preparación de la entrevista técnica. Funcionan correctamente en NodeJS 9.2.0
 
 # robot.js
 Robots autonomos que avanzan de forma aleatoria por un plano 2D evitando obstaculos y otros robots
