@@ -9,7 +9,7 @@ Robots autonomos que avanzan de forma aleatoria por un plano 2D evitando obstacu
 Incluye opcion para mostrar números en los ejes.
 
 # bomba.js
-Adivina el código que desasctiva la bomba con las pistas que muestra en pantalla.
+Adivina el código que desasctiva la bomba con las pistas que muestra en pantalla. Se puede cambiar el número de cifras del código para aumentar o disminuir la dificultad modificando la variable "cifras". Si no adivinas el código escribe "ver" para verlo.
 ![alt text](https://raw.githubusercontent.com/MarcosPer/entrevistaironhack/master/bomba.png)
 
 # t201X-Y
