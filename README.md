@@ -9,7 +9,7 @@ Robots autonomos que avanzan de forma aleatoria por un plano 2D evitando obstacu
 Incluye opcion para mostrar números en los ejes.
 
 # bomba.js
-Adivina el código que desasctiva la bomba. (Es posible que no se puedan resolver algunos códigos) Escribir "ver" para ver la respuesta.
+Adivina el código que desasctiva la bomba con las pistas que muestra en pantalla.
 
 # t201X-Y
 Problemas de "Tuenti Programming Contest"
