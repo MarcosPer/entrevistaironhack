@@ -13,5 +13,5 @@ Adivina el código que desasctiva la bomba. (Es posible que no se puedan resolve
 
 # t201X-Y
 Problemas de "Tuenti Programming Contest"
-2011-1 https://contest.tuenti.net/resources/2011/Question_1.html
-2011-2 https://contest.tuenti.net/resources/2011/Question_2.html
+* t2011-1.js https://contest.tuenti.net/resources/2011/Question_1.html
+* t2011-2.js https://contest.tuenti.net/resources/2011/Question_2.html
