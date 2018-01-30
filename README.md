@@ -13,6 +13,9 @@ Adivina el código que desasctiva la bomba con las pistas que muestra en pantall
 
 ![alt text](https://raw.githubusercontent.com/MarcosPer/entrevistaironhack/master/bomba.png)
 
+# ave.js
+Rehubica los viajeros para un tren averiado en el siguiente tren intentando rehubicar respetando los grupos de personas, da prioridad a personas individuales o grupos pequeños para intentar llenar al máximo el tren sin romper grupos.
+
 # t201X-Y
 Problemas de "Tuenti Programming Contest"
 * t2011-1.js https://contest.tuenti.net/resources/2011/Question_1.html
